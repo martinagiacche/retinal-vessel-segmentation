@@ -32,9 +32,6 @@ The final pipeline improves segmentation performance compared to the baseline an
 - OpenCV  
 - NumPy  
 
-## Notes
-This project was developed as part of the Medical Image Processing course in the MSc in Biomedical Engineering at Politecnico di Torino.
-
 ## Results
 ### Example 1
 ![Example 1](results/example_1.png)
@@ -42,3 +39,12 @@ This project was developed as part of the Medical Image Processing course in the
 ![Example 2](results/example_2.png)
 ### Example 3
 ![Example 3](results/example_3.png)
+
+## How to run
+1. Install dependencies
+2. Run `compute_normalization_stats.ipynb`
+3. Train the model with `train_unet.ipynb`
+4. Run inference using `pipeline.ipynb`
+   
+## Notes
+This project was developed as part of the Medical Image Processing course in the MSc in Biomedical Engineering at Politecnico di Torino.
