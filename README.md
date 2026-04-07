@@ -34,3 +34,11 @@ The final pipeline improves segmentation performance compared to the baseline an
 
 ## Notes
 This project was developed as part of the Medical Image Processing course in the MSc in Biomedical Engineering at Politecnico di Torino.
+
+## Results
+### Example 1
+![Example 1](results/example_1.png)
+### Example 2
+![Example 2](results/example_2.png)
+### Example 3
+![Example 3](results/example_3.png)
